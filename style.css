@@ -1,0 +1,43 @@
+table {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+td {
+    padding: 20px 0;
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+th, td {
+    border: 2px solid black;
+    width: 14.27%;
+
+}
+th {
+    padding: 8px 0;
+}
+.weeknd {
+    background-color: purple;
+    color: white;
+}
+.bad {
+    background-color: red;
+}
+.okay {
+    background-color: pink;
+}
+.good {
+    background-color: green;
+}
+.better {
+    background-color: orange;
+}
+.amazing {
+    background-color: midnightblue;
+    color:tan;
+}
